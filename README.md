@@ -1,45 +1,70 @@
 # 🧮 CodeAlpha Calculator
 
-A modern and responsive Calculator built using HTML, CSS, and JavaScript.
+<p align="center">
 
-## 🚀 Features
+Modern Glassmorphism Calculator built using HTML, CSS and JavaScript.
 
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Responsive Design
-- Modern UI
-- Clear Screen
-- Real-time Display
+</p>
 
-## 🛠️ Technologies Used
+---
+
+## 🚀 Live Demo
+
+👉 https://manyasuresh113.github.io/CodeAlpha_Calculator/
+
+---
+
+## ✨ Features
+
+✅ Responsive Design
+
+✅ Keyboard Support
+
+✅ Calculation History
+
+✅ Copy Result
+
+✅ Dark / Light Theme
+
+✅ Multiple Color Themes
+
+✅ Smooth Animations
+
+✅ Glassmorphism UI
+
+---
+
+## 📸 Screenshots
+
+(Home)
+
+(Dark Mode)
+
+(History Panel)
+
+---
+
+## 🛠 Built With
 
 - HTML5
 - CSS3
 - JavaScript
 
-## 📂 Project Structure
+---
+
+## 📂 Folder Structure
 
 ```
-CodeAlpha_Calculator/
-│── index.html
-│── style.css
-│── script.js
-│── README.md
-│── assets/
+assets/
+index.html
+style.css
+script.js
 ```
 
-## 📸 Screenshot
-
-(Add screenshot after completing the project.)
-
-## 🎯 Internship
-
-This project was developed as **Task 2 (Calculator)** for the **CodeAlpha Frontend Development Internship**.
+---
 
 ## 👩‍💻 Author
 
-**Manya Suresh**
+Manya Suresh
 
-GitHub: https://github.com/manya557
+Frontend Development Intern @ CodeAlpha
