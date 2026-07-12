@@ -43,7 +43,19 @@ CodeAlpha_Calculator/
 ├── README.md
 └── assets/
 ```
+## Screenshots
 
+### Dark Mode
+
+![Dark Mode](assets/screenshots/dark.png)
+
+### Light Mode
+
+![Light Mode](assets/screenshots/light.png)
+
+### History
+
+![History](assets/screenshots/history.png)
 ## 👩‍💻 Author
 
 **Manya Suresh**
